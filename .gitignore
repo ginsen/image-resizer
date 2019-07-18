@@ -1,3 +1,15 @@
+###> IDE (SublimeText, Eclipse, Zend Studio, Netbeans, JetBrains IDE, TextMate2, Visual Studio Code) ###
+Capfile
+.buildpath
+/.idea/
+nbproject
+.project
+.settings
+.sublime-project
+TextMate2
+.vscode
+###< IDE ###
+
 .DS_Store
 node_modules/
 .env
